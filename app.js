@@ -13,7 +13,7 @@ app.use(
 var connection = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "dilsad123",
+  password: "Subarna123",
   database: "world",
 });
 connection.connect(function (err) {
