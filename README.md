@@ -1,3 +1,3 @@
 # MYSQL-Express-master
->Store Teacher and student data
+>Store Teacher and student data.
 
